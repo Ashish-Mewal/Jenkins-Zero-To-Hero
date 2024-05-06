@@ -1,1 +1,3 @@
-
+def call() {
+  sh 'Building the maven job '
+}
